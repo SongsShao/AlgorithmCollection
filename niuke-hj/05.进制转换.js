@@ -45,7 +45,6 @@ void (async function() {
   while ((line = await readline())) {
     inputNum.push(line.replace("0x", ""));
   }
-  let inputNum10 = [];
   inputNum.map((item) => {
     let sum = 0;
     for (let i = 0; i < item.length; i++) {
