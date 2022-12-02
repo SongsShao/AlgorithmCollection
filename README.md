@@ -39,3 +39,4 @@
 - [36.字符串加密](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/36.字符串加密.js)
 - [37.统计每个月兔子的总数](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/37.统计每个月兔子的总数.js)
 - [38.求小球落地5次后所经历的路程和第5次反弹的高度](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/38.求小球落地5次后所经历的路程和第5次反弹的高度.js)
+- [39.判断两个IP是否属于同一子网](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/39.判断两个IP是否属于同一子网.js)
