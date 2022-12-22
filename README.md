@@ -43,3 +43,5 @@
 - [40.统计字符](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/40.统计字符.js)
 - [41.称砝码](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/41.称砝码.js)
 - [42.学英语](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/42.学英语.js)
+- [43.迷宫问题](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/43.迷宫问题.js)
+- [44.Sudoku](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/44.Sudoku.js)
