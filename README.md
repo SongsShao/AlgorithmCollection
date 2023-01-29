@@ -55,4 +55,16 @@
 - [56.完全数计算](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/56.完全数计算.js)
 - [58.输入n个整数，输出其中最小的k个](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/58.输入n个整数，输出其中最小的k个.js)
 - [60.查找组成一个偶数最接近的两个素数](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/60.查找组成一个偶数最接近的两个素数.js)
-- [56.完全数计算](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/56.完全数计算.js)
+- [61.放苹果](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/61.放苹果.js)
+- [62.查找输入整数二进制中1的个数](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/62.查找输入整数二进制中1的个数.js)
+
+##### [力扣](https://leetcode.cn/search/)-JavaScript
+
+- [03.无重复字符的最长子串](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/3.无重复字符的最长子串.js)
+- [60.排列序列](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/60.排列序列.js)
+- [62.不同路径](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/62.不同路径.js)
+- [127.单词接龙](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/127.单词接龙.js)
+- [179.最大数](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/179.最大数.js)
+- [1047.删除字符串中的所有相邻重复项](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/1047.删除字符串中的所有相邻重复项.js)
+- [1505.(暂未解出)最多K次交换相邻数位后得到的最小整数](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/1505.(暂未解出)最多K次交换相邻数位后得到的最小整数.java)
+- [1703.得到连续K个1的最少相邻交换次数](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/1703.得到连续K个1的最少相邻交换次数.js)
