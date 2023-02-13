@@ -60,11 +60,18 @@
 
 ##### [力扣](https://leetcode.cn/search/)-JavaScript
 
-- [03.无重复字符的最长子串](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/3.无重复字符的最长子串.js)
+- [3.无重复字符的最长子串](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/3.无重复字符的最长子串.js)
+- [53.最大子数组和(贪心算法)](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/53.最大子数组和.js)
+- [55.跳跃游戏(贪心算法)](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/55.跳跃游戏.js)
 - [60.排列序列](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/60.排列序列.js)
 - [62.不同路径](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/62.不同路径.js)
+- [122.买卖股票的最佳时机II(贪心算法)](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/122.买卖股票的最佳时机II.js)
 - [127.单词接龙](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/127.单词接龙.js)
 - [179.最大数](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/179.最大数.js)
+- [376.摆动序列(贪心算法)](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/376.摆动序列.js)
+- [392.判断子序列](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/392.判断子序列.js)
+- [455.分发饼干(贪心算法)](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/455.分发饼干.js)
 - [1047.删除字符串中的所有相邻重复项](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/1047.删除字符串中的所有相邻重复项.js)
 - [1505.(暂未解出)最多K次交换相邻数位后得到的最小整数](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/1505.(暂未解出)最多K次交换相邻数位后得到的最小整数.java)
+- [1593.拆分字符串使唯一子字符串的数目最大](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/1593.拆分字符串使唯一子字符串的数目最大.js)
 - [1703.得到连续K个1的最少相邻交换次数](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/1703.得到连续K个1的最少相邻交换次数.js)
