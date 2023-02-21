@@ -1,0 +1,15 @@
+{
+  "name": "songs-niuke",
+  "version": "1.0.0",
+  "description": "牛客华为机试题",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/songsshao/niuke-hj.git"
+  },
+  "author": "songshao",
+  "license": "MIT"
+}
