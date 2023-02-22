@@ -57,6 +57,16 @@
 - [60.查找组成一个偶数最接近的两个素数](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/60.查找组成一个偶数最接近的两个素数.js)
 - [61.放苹果](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/61.放苹果.js)
 - [62.查找输入整数二进制中1的个数](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/62.查找输入整数二进制中1的个数.js)
+- [201.求解连续数列](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/201.求解连续数列.js)
+- [202.查找众数及中位数](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/202.查找众数及中位数.js)
+- [203.找相同子串](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/203.找相同子串.js)
+- [204.字符串统计](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/204.字符串统计.js)
+- [205.磁盘容量排序](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/205.磁盘容量排序.js)
+- [206.太阳能板最大面积](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/206.太阳能板最大面积.js)
+- [207.出租车计费](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/207.出租车计费.js)
+- [208.整数对最小和](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/208.整数对最小和.js)
+- [205.磁盘容量排序](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/205.磁盘容量排序.js)
+
 
 ##### [力扣](https://leetcode.cn/search/)-JavaScript
 
