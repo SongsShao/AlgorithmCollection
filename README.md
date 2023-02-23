@@ -65,8 +65,10 @@
 - [206.太阳能板最大面积](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/206.太阳能板最大面积.js)
 - [207.出租车计费](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/207.出租车计费.js)
 - [208.整数对最小和](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/208.整数对最小和.js)
-- [205.磁盘容量排序](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/205.磁盘容量排序.js)
-
+- [209.判断字符串子序列](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/209.判断字符串子序列.js)
+- [210.运动会排队](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/210.运动会排队.js)
+- [211.快递运输](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/211.快递运输.js)
+- [212.TLV解码](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/212.TLV解码.js)
 
 ##### [力扣](https://leetcode.cn/search/)-JavaScript
 
