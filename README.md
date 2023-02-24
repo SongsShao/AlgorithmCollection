@@ -69,6 +69,8 @@
 - [210.运动会排队](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/210.运动会排队.js)
 - [211.快递运输](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/211.快递运输.js)
 - [212.TLV解码](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/212.TLV解码.js)
+- [213.考勤信息](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/213.考勤信息.js)
+- [214.字符串分割](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/214.字符串分割.js)
 
 ##### [力扣](https://leetcode.cn/search/)-JavaScript
 
