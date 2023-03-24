@@ -1,4 +1,4 @@
-# 邵松学习算法谨记
+# 算法笔记
 ##### [牛客网](https://www.nowcoder.com/exam/oj/ta?tpId=37)-[华为算法](https://gitee.com/songsshao/niuke-hj/tree/master/niuke-hj)-JavaScript
 
 - [01.字符串最后一个单词的长度](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/01.字符串最后一个单词的长度.js)
