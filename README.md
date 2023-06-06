@@ -1,5 +1,5 @@
 # 算法笔记
-##### [牛客网](https://www.nowcoder.com/exam/oj/ta?tpId=37)-[华为算法](https://gitee.com/songsshao/niuke-hj/tree/master/niuke-hj)-JavaScript
+#### [牛客网](https://www.nowcoder.com/exam/oj/ta?tpId=37)-[华为算法](https://gitee.com/songsshao/niuke-hj/tree/master/niuke-hj)-JavaScript
 
 - [01.字符串最后一个单词的长度](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/01.字符串最后一个单词的长度.js)
 - [02.计算某字符出现次数](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/02.计算某字符出现次数.js)
@@ -72,8 +72,26 @@
 - [213.考勤信息](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/213.考勤信息.js)
 - [214.字符串分割](https://gitee.com/songsshao/niuke-hj/blob/master/niuke-hj/214.字符串分割.js)
 
-##### [力扣](https://leetcode.cn/search/)-JavaScript
+#### [力扣](https://leetcode.cn/search/)-JavaScript
 
+##### [数组](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/array/00.数组理论基础.md)
+- [01.二分查找](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/array/01.二分查找.md)
+- [02.移除元素](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/array/02.移除元素.md)
+- [03.有序数组的平方](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/array/03.有序数组的平方.md)
+- [04.01.长度最小的子数组](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/array/04.01.长度最小的子数组.md)
+- [04.02.水果成蓝.md](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/array/04.02.水果成蓝.md)
+- [04.03.最小覆盖子串.md](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/array/04.03.最小覆盖子串.md)
+- [05.01.螺旋矩阵](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/array/05.01.螺旋矩阵.js)
+- [05.02.螺旋矩阵II](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/array/05.02.螺旋矩阵II.md)
+
+
+##### [链表](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/ListNode/00.链表理论基础.md)
+- [01.移除链表元素](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/ListNode/01.移除链表元素.md)
+- [02.设计链表](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/ListNode/02.设计链表.md)
+- [03.反转链表](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/ListNode/03.反转链表.md)
+- [04.两两交换链表中的节点](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/ListNode/04.两两交换链表中的节点.md)
+
+##### 练习算法
 - [3.无重复字符的最长子串](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/3.无重复字符的最长子串.js)
 - [53.最大子数组和(贪心算法)](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/53.最大子数组和.js)
 - [55.跳跃游戏(贪心算法)](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/55.跳跃游戏.js)
