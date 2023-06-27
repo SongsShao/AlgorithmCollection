@@ -1,7 +1,6 @@
 # 算法笔记
 #### [牛客网](https://www.nowcoder.com/exam/oj/ta?tpId=37)-[华为算法](./niuke-hj)-JavaScript
 
-
 - [01.字符串最后一个单词的长度](./niuke-hj/01.字符串最后一个单词的长度.js)
 - [02.计算某字符出现次数](./niuke-hj/02.计算某字符出现次数.js)
 - [03.明明的随机数](./niuke-hj/03.明明的随机数.js)
@@ -73,7 +72,7 @@
 - [213.考勤信息](./niuke-hj/213.考勤信息.js)
 - [214.字符串分割](./niuke-hj/214.字符串分割.js)
 
-#### [力扣](https://leetcode.cn/search/)-JavaScript
+#### [力扣](https://leetcode.cn/search/)-按照数据类型刷题
 
 ##### [数组](./leetcode/array/00.数组理论基础.md)
 - [01.二分查找](./leetcode/array/01.二分查找.md)
@@ -85,7 +84,6 @@
 - [05.01.螺旋矩阵](./leetcode/array/05.01.螺旋矩阵.js)
 - [05.02.螺旋矩阵II](./leetcode/array/05.02.螺旋矩阵II.md)
 
-
 ##### [链表](./leetcode/ListNode/00.链表理论基础.md)
 - [01.移除链表元素](./leetcode/ListNode/01.移除链表元素.md)
 - [02.设计链表](./leetcode/ListNode/02.设计链表.md)
@@ -95,6 +93,11 @@
 - [06.链表相交](./leetcode/ListNode/06.链表相交.md)
 - [07.环形链表II](./leetcode/ListNode/07.环形链表II.md)
 
+##### [哈希表](./leetcode/HasTable/00.哈希表.md)
+- [01.有效的字母异位词](./leetcode/HasTable/01.有效的字母异位词.md)
+- [02.两个数组的交集](./leetcode/HasTable/02.两个数组的交集.md)
+- [03.快乐数](./leetcode/HasTable/03.快乐数.md)
+- [04.两数之和](./leetcode/HasTable/04.两数之和.md)
 
 ##### 练习算法
 - [3.无重复字符的最长子串](./leetcode/3.无重复字符的最长子串.js)
