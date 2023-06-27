@@ -90,7 +90,7 @@
 - [01.移除链表元素](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/ListNode/01.移除链表元素.md)
 - [02.设计链表](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/ListNode/02.设计链表.md)
 - [03.反转链表](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/ListNode/03.反转链表.md)
-- [04.两两交换链表中的节点](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/ListNode/04.两两交换链表中的节点.md)
+- [04.两两交换链表中的节点](./blob/master/leetcode/ListNode/04.两两交换链表中的节点.md)
 - [05.删除链表的倒数第N个节点](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/ListNode/05.删除链表的倒数第N个节点.md)
 - [06.链表相交](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/ListNode/06.链表相交.md)
 - [07.环形链表II](https://gitee.com/songsshao/niuke-hj/blob/master/leetcode/ListNode/07.环形链表II.md)
