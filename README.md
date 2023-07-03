@@ -99,6 +99,9 @@
 - [03.快乐数](./leetcode/HasTable/03.快乐数.md)
 - [04.两数之和](./leetcode/HasTable/04.两数之和.md)
 - [05.四数相加II](./leetcode/HasTable/05.四数相加II.md)
+- [06.赎金信](./leetcode/HasTable/06.赎金信.md)
+- [07.三数之和](./leetcode/HasTable/07.三数之和.md)
+- [08.四数之和](./leetcode/HasTable/08.四数之和.md)
 
 ##### 练习算法
 - [3.无重复字符的最长子串](./leetcode/3.无重复字符的最长子串.js)
