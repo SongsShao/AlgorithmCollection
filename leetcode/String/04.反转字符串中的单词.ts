@@ -1,13 +1,12 @@
 function reverseWords(s: string): string {
-  debugger;
   function removeSpend(arr: string[]): void {
     let left: number = 0;
     let right: number = 0;
     let len: number = arr.length;
-    while (right > len && arr[right] === " ") {
+    while (right < len && arr[right] === " ") {
       right++;
     }
-    while (right > len) {
+    while (right < len) {
       if (arr[right] === " " && arr[right - 1] === " ") {
         right++;
         continue;
@@ -39,7 +38,8 @@ function reverseWords(s: string): string {
   let start: number = 0;
   let end: number = 0;
   while (start < len) {
-    if (arr[end] !== " " && end < len) {
+    end = start;
+    while (arr[end] !== " " && end < len) {
       end++;
     }
     reverse(arr, start, end - 1);
@@ -47,3 +47,5 @@ function reverseWords(s: string): string {
   }
   return arr.join("");
 }
+
+console.log(reverseWords("the sky is blue"));
