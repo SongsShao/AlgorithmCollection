@@ -1,4 +1,5 @@
 # 算法笔记
+
 #### [牛客网](https://www.nowcoder.com/exam/oj/ta?tpId=37)-[华为算法](./niuke-hj)-JavaScript
 
 - [01.字符串最后一个单词的长度](./niuke-hj/01.字符串最后一个单词的长度.js)
@@ -75,6 +76,7 @@
 #### [力扣](https://leetcode.cn/search/)-按照数据类型刷题
 
 ##### [数组](./leetcode/array/00.数组理论基础.md)
+
 - [01.二分查找](./leetcode/array/01.二分查找.md)
 - [02.移除元素](./leetcode/array/02.移除元素.md)
 - [03.有序数组的平方](./leetcode/array/03.有序数组的平方.md)
@@ -85,6 +87,7 @@
 - [05.02.螺旋矩阵II](./leetcode/array/05.02.螺旋矩阵II.md)
 
 ##### [链表](./leetcode/ListNode/00.链表理论基础.md)
+
 - [01.移除链表元素](./leetcode/ListNode/01.移除链表元素.md)
 - [02.设计链表](./leetcode/ListNode/02.设计链表.md)
 - [03.反转链表](./leetcode/ListNode/03.反转链表.md)
@@ -94,6 +97,7 @@
 - [07.环形链表II](./leetcode/ListNode/07.环形链表II.md)
 
 ##### [哈希表](./leetcode/HasTable/00.哈希表.md)
+
 - [01.有效的字母异位词](./leetcode/HasTable/01.有效的字母异位词.md)
 - [02.两个数组的交集](./leetcode/HasTable/02.两个数组的交集.md)
 - [03.快乐数](./leetcode/HasTable/03.快乐数.md)
@@ -103,7 +107,15 @@
 - [07.三数之和](./leetcode/HasTable/07.三数之和.md)
 - [08.四数之和](./leetcode/HasTable/08.四数之和.md)
 
+##### 字符串
+
+- [01.字符串反转](./leetcode/String/01.字符串反转.md)
+- [02.反转字符串II](./leetcode/String/02.反转字符串II.md)
+- [03.替换空格](./leetcode/String/03.替换空格.md)
+- [04.反转字符串中的单词](./leetcode/String/04.反转字符串中的单词.md)
+
 ##### 练习算法
+
 - [3.无重复字符的最长子串](./leetcode/3.无重复字符的最长子串.js)
 - [53.最大子数组和(贪心算法)](./leetcode/53.最大子数组和.js)
 - [55.跳跃游戏(贪心算法)](./leetcode/55.跳跃游戏.js)
