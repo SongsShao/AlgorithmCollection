@@ -207,16 +207,16 @@ MyPromise.race = function(iterable) {
 //   });
 // })();
 
-(async function() {
-  const res = MyPromise.race([
-    new MyPromise((resolve) => {
-      resolve(1);
-    }),
-    new MyPromise((resolve) => {
-      resolve(2);
-    }),
-  ]);
-  res.then((res) => {
-    console.log(res);
-  });
-})();
+// (async function() {
+//   const res = MyPromise.race([
+//     new MyPromise((resolve) => {
+//       resolve(1);
+//     }),
+//     new MyPromise((resolve) => {
+//       resolve(2);
+//     }),
+//   ]);
+//   res.then((res) => {
+//     console.log(res);
+//   });
+// })();
